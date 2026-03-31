@@ -484,12 +484,3 @@ The shell scripts described in this report demonstrate how open source principle
 
 ---
 
-## Appendix (Optional) — Exporting to a 15+ Page PDF
-If your teacher requires “15+ pages” strictly by page count:
-- Paste this Markdown into Google Docs / Word
-- Use **12pt font**, **1.5 line spacing**
-- Insert **page breaks** between major parts
-- Add a **cover page** and a **declaration/certificate** page (if your format requires it)
-- Add screenshots of script output as figures (each can take ~½–1 page)
-
-(You can remove this appendix if not needed.)
