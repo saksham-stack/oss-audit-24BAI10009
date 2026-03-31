@@ -343,7 +343,6 @@ A good strategy is often hybrid:
 # Part E — Shell Script Documentation
 This section documents the scripts conceptually, so a reader can understand the purpose, inputs, outputs, and expected behavior.
 
-> If your repository contains actual script filenames, replace the placeholders below with exact names/paths (for example: `scripts/system_identity_report.sh`).
 
 ## Script 1: System Identity Report
 ### Purpose
