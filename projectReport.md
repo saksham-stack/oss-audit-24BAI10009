@@ -1,4 +1,13 @@
 # Open Source Software Audit & FOSS Ecosystem Report  
+## A Capstone Project for OSS NGMC Course
+
+**Student Name:** Saksham Gupta
+**Registration Number:** 24BCAI10009
+**Chosen Software:** Git (Version Control System)
+**License Audited:** GNU General Public License v2 (GPL v2)
+**Date of Submission:** 31 March 2026
+**Course:** Open Source Software — CSE0002
+
 **Repository:** `saksham-stack/oss-audit-24BAI10009`  
 **Repo ID:** `1196547296`  
 **Prepared by:** `saksham-stack`  
@@ -15,28 +24,29 @@ Finally, it provides documentation for a set of shell scripts that implement an 
 # Table of Contents
 > **Note:** Page numbers are indicative. When exported to PDF (e.g., via Pandoc/Word/Google Docs), page numbers may shift depending on formatting, font size, and spacing.
 
-- [Introduction](#introduction) ............................................................................ p. 3  
-- [Part A — Origin and Philosophy](#part-a--origin-and-philosophy) ............................................ p. 4  
-  - [A1. The Problem Git Was Created to Solve](#a1-the-problem-git-was-created-to-solve) .......................... p. 4  
-  - [A2. The License — What It Actually Says](#a2-the-license--what-it-actually-says) ............................. p. 7  
-  - [A3. The Ethics of Open Source](#a3-the-ethics-of-open-source) .............................................. p. 9  
-- [Part B — Linux Footprint](#part-b--linux-footprint) ........................................................ p. 11  
-- [Part C — The FOSS Ecosystem](#part-c--the-foss-ecosystem) ............................................. p. 13  
-- [Part D — Open Source vs Proprietary](#part-d--open-source-vs-proprietary) .................................. p. 15  
-  - [Comparison Table](#comparison-table) ................................................................... p. 15  
-  - [Deployment Verdict](#deployment-verdict) ................................................................ p. 16  
-- [Part E — Shell Script Documentation](#part-e--shell-script-documentation) .................................. p. 17  
-  - [Script 1: System Identity Report](#script-1-system-identity-report) ........................................... p. 17  
-  - [Script 2: FOSS Package Inspector](#script-2-foss-package-inspector) ........................................ p. 19  
-  - [Script 3: Disk and Permission Auditor](#script-3-disk-and-permission-auditor) .................................. p. 21  
-  - [Script 4: Log File Analyzer](#script-4-log-file-analyzer) .................................................... p. 23  
-  - [Script 5: Open Source Manifesto Generator](#script-5-open-source-manifesto-generator) ........................ p. 25  
-- [Conclusion](#conclusion) .............................................................................. p. 27  
-- [References](#references) ............................................................................... p. 28  
+- [Introduction](#introduction) 
+- [Part A — Origin and Philosophy](#part-a--origin-and-philosophy)   
+  - [A1. The Problem Git Was Created to Solve](#a1-the-problem-git-was-created-to-solve)   
+  - [A2. The License — What It Actually Says](#a2-the-license--what-it-actually-says)   
+  - [A3. The Ethics of Open Source](#a3-the-ethics-of-open-source)   
+- [Part B — Linux Footprint](#part-b--linux-footprint)   
+- [Part C — The FOSS Ecosystem](#part-c--the-foss-ecosystem)   
+- [Part D — Open Source vs Proprietary](#part-d--open-source-vs-proprietary)   
+  - [Comparison Table](#comparison-table)   
+  - [Deployment Verdict](#deployment-verdict)   
+- [Part E — Shell Script Documentation](#part-e--shell-script-documentation)   
+  - [Script 1: System Identity Report](#script-1-system-identity-report)   
+  - [Script 2: FOSS Package Inspector](#script-2-foss-package-inspector)   
+  - [Script 3: Disk and Permission Auditor](#script-3-disk-and-permission-auditor)   
+  - [Script 4: Log File Analyzer](#script-4-log-file-analyzer)   
+  - [Script 5: Open Source Manifesto Generator](#script-5-open-source-manifesto-generator) 
+- [Conclusion](#conclusion)   
+- [References](#references)   
 
 ---
 
 # Introduction
+
 Open Source Software (OSS) has transformed the way modern computing is built, distributed, and maintained. Instead of software being a sealed product controlled entirely by one vendor, open source enables transparency, collaboration, peer review, and community-driven improvement.
 
 This report explains the “why” and “how” behind open source by:
