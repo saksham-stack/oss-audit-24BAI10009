@@ -27,7 +27,6 @@ Finally, it provides documentation for a set of shell scripts that implement an 
 ---
 
 # Table of Contents
-> **Note:** Page numbers are indicative. When exported to PDF (e.g., via Pandoc/Word/Google Docs), page numbers may shift depending on formatting, font size, and spacing.
 
 - [Introduction](#introduction) 
 - [Part A — Origin and Philosophy](#part-a--origin-and-philosophy)   
