@@ -2,10 +2,15 @@
 ## A Capstone Project for OSS NGMC Course
 
 **Student Name:** Saksham Gupta
-**Registration Number:** 24BCAI10009
+
+**Registration Number:** 24BAI10009
+
 **Chosen Software:** Git (Version Control System)
+
 **License Audited:** GNU General Public License v2 (GPL v2)
+
 **Date of Submission:** 31 March 2026
+
 **Course:** Open Source Software — CSE0002
 
 **Repository:** `saksham-stack/oss-audit-24BAI10009`  
